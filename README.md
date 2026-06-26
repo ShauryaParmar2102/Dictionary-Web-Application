@@ -17,6 +17,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
 🔗 “Read More” link to source page
 
 🎨 Simple responsive UI
+
 ---
 ## 🛠️ Built With
 
@@ -39,6 +40,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
    
 4. Data is parsed and displayed dynamically on the page
 ---
+
 ## How to Download the Project
 
 1. Click the green Code button on GitHub
