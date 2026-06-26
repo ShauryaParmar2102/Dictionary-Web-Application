@@ -4,7 +4,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
 
 ## ✨ Features
 --
-🔍 Search any English word
+🔍 Search for any English word
 
 📚 Displays meaning and example sentence
 
