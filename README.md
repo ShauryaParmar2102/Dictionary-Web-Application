@@ -27,6 +27,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
 ⚙️ JavaScript 
 
 📚 Dictionary API
+
 ---
 ## ⚙️ How It Works
 
