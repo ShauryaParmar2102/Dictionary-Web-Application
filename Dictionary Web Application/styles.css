@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: #333;
+    font-size: 18px;
+}
+
+header {
+    background-color: #555;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+main {
+    min-height: 80vh;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+main form {
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    gap: 12px;
+}
+
+form input[type="text"],
+button[type="submit"],
+.result.div a{
+    flex: 1;
+    padding: 14px 16px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    outline: none;
+    transition: 0.2s ease;
+}
+
+form input[type="text"]:focus {
+    border-color: #555;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+form button {
+    padding: 14px 22px;
+    border: none;
+    border-radius: 10px;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+    font-size: 1.1rem;
+    transition: 0.2s ease;
+}
+
+form button:hover {
+    background-color: #444;
+    transform: translateY(-1px);
+}
+
+.result {
+    margin-top: 30px;
+    max-width: 700px;
+    width: 100%;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.result p {
+    margin-top: 10px;
+}
+
+.result p [class="partOfSpeech"]{
+    font-style: italic;
+    color: limegreen;
+    margin-top: 2px;
+}
+
+.result.div{
+    margin-top: 20px;
+}
+
+.result a {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.result li {
+    list-style: none;
+}
+
+@media screen and (max-width:320px){
+    main-form{
+        flex-direction: column;
+    }
+}
