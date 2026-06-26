@@ -3,7 +3,7 @@
 This is a dictionary web application built using HTML, CSS, and JavaScript. It fetches real-time word data from a free dictionary API and displays meanings, examples, parts of speech, and antonyms. The project focuses on working with APIs, handling JSON data, and dynamically updating the UI based on user input.
 
 # ✨ Features
----
+--
 🔍 Search any English word
 
 📚 Displays meaning and example sentence
