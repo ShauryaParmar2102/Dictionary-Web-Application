@@ -1,8 +1,8 @@
-# Dictionary-Web-Application
+# Dictionary Web Application
 
 This is a dictionary web application built using HTML, CSS, and JavaScript. It fetches real-time word data from a free dictionary API and displays meanings, examples, parts of speech, and antonyms. The project focuses on working with APIs, handling JSON data, and dynamically updating the UI based on user input.
 
-# ✨ Features
+## ✨ Features
 --
 🔍 Search any English word
 
@@ -18,7 +18,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
 
 🎨 Simple responsive UI
 ---
-# 🛠️ Built With
+## 🛠️ Built With
 
 🧱 HTML
 
@@ -28,7 +28,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
 
 📚 Dictionary API
 ---
-# ⚙️ How It Works
+## ⚙️ How It Works
 
 1. User enters a word in the search bar
   
@@ -38,7 +38,7 @@ This is a dictionary web application built using HTML, CSS, and JavaScript. It f
    
 4. Data is parsed and displayed dynamically on the page
 ---
-# How to Download the Project
+## How to Download the Project
 
 1. Click the green Code button on GitHub
 
